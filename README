@@ -1,0 +1,22 @@
+Assembly Assignment 2
+
+##功能
+读取文本数据，修改文本数据，保存文本数据
+
+##文件组织
+###code文件夹下内含所有代码文件(linux.s, record-def.s, read-record.s, write-record.s, main.s)和Makefile文件
+###data文件夹下内含输入文本文件(test.dat)和输出文本文件(test_out.data)
+###bin文件夹下内含可执行文件(main)和输入文本文件(test.dat)
+###obj文件夹下内含编译中间文件(read-record.o, write-record.o, main.o)
+
+##编译方法：
+###code文件夹下内含Makefile文件，可直接编译
+
+##测试环境：
+###Ubuntu 16.04.3 LTS (GNU/Linux 4.4.0-53-generic x86_64)
+
+##作者：
+###张钰晖
+###学号：2015011372
+###Email：yuhui-zh15@mails.tsinghua.edu.cn
+###Tel：185-3888-2881
